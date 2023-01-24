@@ -1,5 +1,6 @@
 # Examination_System
-##DB Project of Advanced sql in ITI 
+DB Project of Advanced sql in ITI 
+---------------------------
 ##Team Members
 [Ahmed Taha- Mohammed Abdelfatah-Heba Allah Ahmed-Maha Yehia-Asmaa Abdeen]
 ---------------------------
@@ -29,8 +30,7 @@ Hints:
    Crystal Report
    Report Builder 
    SSRS
-   
--------------------------------------------
-[@/team-name]( https://https://github.com/Hebaallah61 )`
+--------------------------------------------
+[@/Heba]( https://github.com/Hebaallah61 )`
  
 
